@@ -28,7 +28,3 @@ python -m jupyter lab
 ```
 
 Select a Python environment containing these dependencies and run any notebook from top to bottom. No execution order between notebooks is required. The notebooks retain the original experimental methods; saved plots and embedded audio are omitted to keep the repository compact.
-
-## Author
-
-Radin Cheraghi · Department of Computer Engineering, Sharif University of Technology
